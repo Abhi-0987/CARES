@@ -1,4 +1,4 @@
-# CARES - Cancer Awareness and Risk Evaluation System
+# CARES - Cancer Awareness and Risk Evaluation by Self-Assessment
 
 CARES is a user-friendly platform designed to empower individuals by providing reliable and comprehensive information on various types of cancers. With its personalized features and advanced technology, CARES goes beyond merely offering information, aiming to foster proactive health management, informed decision-making, and ultimately a healthier lifestyle. 
 
